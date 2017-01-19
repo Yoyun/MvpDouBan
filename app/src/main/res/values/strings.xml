@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">味到</string>
+    <string name="app_name">Movie</string>
     <string name="empty_movies">There aren\\\'t any ribots</string>
 
     <string name="action_settings">Settings</string>
