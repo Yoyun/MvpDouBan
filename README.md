@@ -1,5 +1,5 @@
 # MvpDouBan
-该项目是学习 [ribot](https://github.com/ribot/android-boilerplate) 的MVP框架的项目实战。数据来自豆瓣开放平台
+该项目是学习 [ribot](https://github.com/ribot/android-boilerplate) 的MVP框架的项目实战。数据来自豆瓣开放平台    
 ![](images/device.png)
 
 ## Libraries
